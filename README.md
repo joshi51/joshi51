@@ -1,4 +1,10 @@
 ### Hi there 👋
+## my name is Suresh Joshi, a Full Stack Developer from India. Here's how I would like to introduce myself:
+
+- I have created several projects here on Github, majorly in Typescript and also in Python.
+- All my major work is in [Shape To Ideas](https://github.com/shape-to-ideas)
+
+  For recruiters, here is my [LinkdIn account](https://www.linkedin.com/in/suresh-joshi-a594b5b6/)
 
 <!--
 **joshi51/joshi51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
