@@ -1,5 +1,5 @@
 ### Hi there 👋
-## my name is Suresh Joshi, a Full Stack Developer from India. Here's how I would like to introduce myself:
+##### My name is Suresh Joshi, a Full Stack Developer from India. Here's are somethings about myself:
 
 - I have created several projects here on Github, majorly in Typescript and also in Python.
 - All my major work is in [Shape To Ideas](https://github.com/shape-to-ideas)
